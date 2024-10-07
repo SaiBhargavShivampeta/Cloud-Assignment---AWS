@@ -1,7 +1,7 @@
-Project Overview:
+**Project Overview:**
 This project showcases a web application hosted on an AWS EC2 instance. The app includes features for user registration, login, and profile management. Additionally, it offers extra credit functionality, such as file uploads, word count calculation, and persistent storage of user data.
 
-Key Features:
+**Key Features:**
 
 User Registration: Collects username, password, first name, last name, and email, storing the data securely in a SQLite3 database.
 Login: Authenticates users by their username and password.
